@@ -1,0 +1,36 @@
+c:\users\sc-501\documents\visual studio 2013\Projects\Kim1TLister\Kim1TLister\bin\Debug\Kim1TLister.exe.config
+c:\users\sc-501\documents\visual studio 2013\Projects\Kim1TLister\Kim1TLister\bin\Debug\Kim1TLister.exe
+c:\users\sc-501\documents\visual studio 2013\Projects\Kim1TLister\Kim1TLister\bin\Debug\Kim1TLister.pdb
+c:\users\sc-501\documents\visual studio 2013\Projects\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.csprojResolveAssemblyReference.cache
+c:\users\sc-501\documents\visual studio 2013\Projects\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.Form1.resources
+c:\users\sc-501\documents\visual studio 2013\Projects\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.Properties.Resources.resources
+c:\users\sc-501\documents\visual studio 2013\Projects\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.csproj.GenerateResource.Cache
+c:\users\sc-501\documents\visual studio 2013\Projects\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.exe
+c:\users\sc-501\documents\visual studio 2013\Projects\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.pdb
+C:\Users\UmutPc\Desktop\Kim1TLister\Kim1TLister\bin\Debug\Kim1TLister.exe.config
+C:\Users\UmutPc\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.exe
+C:\Users\UmutPc\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.pdb
+C:\Users\UmutPc\Desktop\Kim1TLister\Kim1TLister\bin\Debug\Kim1TLister.exe
+C:\Users\UmutPc\Desktop\Kim1TLister\Kim1TLister\bin\Debug\Kim1TLister.pdb
+C:\Users\UmutPc\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.csprojResolveAssemblyReference.cache
+C:\Users\UmutPc\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.Form1.resources
+C:\Users\UmutPc\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.Properties.Resources.resources
+C:\Users\UmutPc\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.csproj.GenerateResource.Cache
+C:\Users\SC-501\Desktop\Kim1TLister\Kim1TLister\bin\Debug\Kim1TLister.exe.config
+C:\Users\SC-501\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.exe
+C:\Users\SC-501\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.pdb
+C:\Users\SC-501\Desktop\Kim1TLister\Kim1TLister\bin\Debug\Kim1TLister.exe
+C:\Users\SC-501\Desktop\Kim1TLister\Kim1TLister\bin\Debug\Kim1TLister.pdb
+C:\Users\SC-501\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.csprojResolveAssemblyReference.cache
+C:\Users\SC-501\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.Form1.resources
+C:\Users\SC-501\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.Properties.Resources.resources
+C:\Users\SC-501\Desktop\Kim1TLister\Kim1TLister\obj\Debug\Kim1TLister.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winSinavDeposu\Kim1TLister\bin\Debug\Kim1TLister.exe.config
+C:\Users\HasKhan\Desktop\winSinavDeposu\Kim1TLister\bin\Debug\Kim1TLister.exe
+C:\Users\HasKhan\Desktop\winSinavDeposu\Kim1TLister\bin\Debug\Kim1TLister.pdb
+C:\Users\HasKhan\Desktop\winSinavDeposu\Kim1TLister\obj\Debug\Kim1TLister.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winSinavDeposu\Kim1TLister\obj\Debug\Kim1TLister.Form1.resources
+C:\Users\HasKhan\Desktop\winSinavDeposu\Kim1TLister\obj\Debug\Kim1TLister.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winSinavDeposu\Kim1TLister\obj\Debug\Kim1TLister.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winSinavDeposu\Kim1TLister\obj\Debug\Kim1TLister.exe
+C:\Users\HasKhan\Desktop\winSinavDeposu\Kim1TLister\obj\Debug\Kim1TLister.pdb
